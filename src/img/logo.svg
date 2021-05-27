@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff7676 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M13.55 10.38C14.74 9.56 15.97 7.18 15.05 4.57C18.94 7 21 10.9 21 15.04C21 19.59 17.93 24.03 12 24C6.07 23.97 3 20.3 3 16C3 9.66 9.23 7.19 8.63 0C12.42 2.09 13.62 7.04 13.55 10.38ZM13.34 13C11.74 16.99 9.02 16.99 9 19.42C8.99 20.73 9.93 22 11.77 22C14.79 22 17.09 16.99 13.34 13Z" />
+</svg>
